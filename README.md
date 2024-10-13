@@ -19,9 +19,8 @@ Meet Thyme, your personal AI assistant, built with the OpenAI API, Google Calend
 <br></br>
 
 ## Start Using Thyme
-1. Go to [thyme.company](https://thyme.company) on a 💻 laptop or 📱 phone 
-2. Login with Google to give Thyme acess to your Google Calendar
-3. You're all set to start using Thyme! Try saying:
+1. Login with Google to give Thyme acess to your Google Calendar
+2. Try saying:
 - "Schedule a Coffee Chat with hello@thyme.company tomorrow at 10am"
 - "What's on my calendar Friday?"
 - "Schedule an event called Team Building this Thursday from 10am to 4pm, in the description add a few ideas of places to host a team building event in [insert your city here]"
@@ -40,4 +39,4 @@ Here's how the Thyme PostgreSQL database is structured.
 
 
 ## Contact
-Questions or feedback? We'd love to hear what you think! Email [hello@thyme.company](https://mail.google.com/mail/u/0/?fs=1&to=fwesparza@gmail.com&tf=cm).
+Questions or feedback? We'd love to hear what you think! Email [fwesparza@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=fwesparza@gmail.com&tf=cm).
